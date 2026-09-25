@@ -1,5 +1,11 @@
 # Red Mishang UC Road Blocks
 
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-62B47A?logo=minecraft&logoColor=white)](https://www.minecraft.net/)
+[![Fabric](https://img.shields.io/badge/Fabric-1.20.1-DBD0B4?logo=fabric&logoColor=white)](https://fabricmc.net/)
+[![Fabric API](https://img.shields.io/badge/Fabric%20API-Required-DBD0B4?logo=fabric&logoColor=white)](https://modrinth.com/mod/fabric-api)
+[![Fabric Loader](https://img.shields.io/badge/Fabric%20Loader-Required-DBD0B4?logo=fabric&logoColor=white)](https://fabricmc.net/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
+
 Red Mishang UC Road Blocks is a Minecraft Fabric 1.20.1 mod that provides
 red-terracotta variants of road blocks from Mishang Urban Construction.
 
