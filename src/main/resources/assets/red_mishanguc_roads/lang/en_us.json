@@ -1,0 +1,13 @@
+{
+  "itemGroup.red_mishanguc_roads": "Red Mishang UC Roads",
+  "block.red_mishanguc_roads.white_straight_line": "Red Road With White Straight Line",
+  "block.red_mishanguc_roads.white_straight_thick_line": "Red Road With White Straight Thick Line",
+  "block.red_mishanguc_roads.white_bevel_angle_line": "Red Road With White Bevel Angle Line",
+  "block.red_mishanguc_roads.white_bevel_angle_thick_line": "Red Road With White Bevel Angle Thick Line",
+  "block.red_mishanguc_roads.yellow_offset_out_right_angle_line": "Red Road With Yellow Offset Out Right Angle Line",
+  "block.red_mishanguc_roads.yellow_offset_straight_line": "Red Road With Yellow Offset Straight Line",
+  "block.red_mishanguc_roads.white_straight_line_with_asphalt": "Red And Asphalt Road With White Straight Line",
+  "block.red_mishanguc_roads.white_straight_thick_line_with_asphalt": "Red And Asphalt Road With White Straight Thick Line",
+  "block.red_mishanguc_roads.red_and_asphalt": "Red And Asphalt Road",
+  "block.red_mishanguc_roads.white_thick_and_normal_right_angle_line": "Red Road With WT&N Right Angle Line"
+}

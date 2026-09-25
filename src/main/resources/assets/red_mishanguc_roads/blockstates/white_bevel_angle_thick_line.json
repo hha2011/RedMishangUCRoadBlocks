@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=south_west": {
+      "model": "red_mishanguc_roads:block/white_bevel_angle_thick_line",
+      "uvlock": false
+    },
+    "facing=north_west": {
+      "model": "red_mishanguc_roads:block/white_bevel_angle_thick_line",
+      "uvlock": false,
+      "y": 90
+    },
+    "facing=north_east": {
+      "model": "red_mishanguc_roads:block/white_bevel_angle_thick_line",
+      "uvlock": false,
+      "y": 180
+    },
+    "facing=south_east": {
+      "model": "red_mishanguc_roads:block/white_bevel_angle_thick_line",
+      "uvlock": false,
+      "y": 270
+    }
+  }
+}

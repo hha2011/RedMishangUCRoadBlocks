@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "red_mishanguc_roads:block/white_straight_thick_line",
+      "uvlock": false
+    },
+    "axis=x": {
+      "model": "red_mishanguc_roads:block/white_straight_thick_line",
+      "y": 90,
+      "uvlock": false
+    }
+  }
+}

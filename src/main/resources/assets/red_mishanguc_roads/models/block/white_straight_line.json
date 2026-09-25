@@ -1,0 +1,33 @@
+{
+  "textures": {
+    "particle": "block/red_terracotta",
+    "lineside": "red_mishanguc_roads:block/white_straight_line",
+    "emptyside": "minecraft:block/red_terracotta"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": {
+          "texture": "#lineside"
+        },
+        "south": {
+          "texture": "#lineside"
+        },
+        "east": {
+          "texture": "#emptyside"
+        },
+        "west": {
+          "texture": "#emptyside"
+        },
+        "up": {
+          "texture": "#lineside"
+        },
+        "down": {
+          "texture": "#emptyside"
+        }
+      }
+    }
+  ]
+}

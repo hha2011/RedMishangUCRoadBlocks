@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "red_mishanguc_roads:block/yellow_offset_straight_line"
+    },
+    "facing=east": {
+      "model": "red_mishanguc_roads:block/yellow_offset_straight_line",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "red_mishanguc_roads:block/yellow_offset_straight_line",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "red_mishanguc_roads:block/yellow_offset_straight_line",
+      "y": 270
+    }
+  }
+}

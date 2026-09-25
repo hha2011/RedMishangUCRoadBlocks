@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "red_mishanguc_roads:block/red_and_asphalt"
+    },
+    "facing=east": {
+      "model": "red_mishanguc_roads:block/red_and_asphalt",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "red_mishanguc_roads:block/red_and_asphalt",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "red_mishanguc_roads:block/red_and_asphalt",
+      "y": 270
+    }
+  }
+}

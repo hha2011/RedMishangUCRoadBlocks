@@ -1,0 +1,43 @@
+{
+  "variants": {
+    "axis=z,facing=south_west": {
+      "model": "red_mishanguc_roads:block/white_thick_and_normal_right_angle_line",
+      "uvlock": false
+    },
+    "axis=x,facing=north_west": {
+      "model": "red_mishanguc_roads:block/white_thick_and_normal_right_angle_line",
+      "uvlock": false,
+      "y": 90
+    },
+    "axis=z,facing=north_east": {
+      "model": "red_mishanguc_roads:block/white_thick_and_normal_right_angle_line",
+      "uvlock": false,
+      "y": 180
+    },
+    "axis=x,facing=south_east": {
+      "model": "red_mishanguc_roads:block/white_thick_and_normal_right_angle_line",
+      "uvlock": false,
+      "y": 270
+    },
+
+    "axis=x,facing=south_west": {
+      "model": "red_mishanguc_roads:block/white_thick_and_normal_right_angle_line_z",
+      "uvlock": false,
+      "y": 90
+    },
+    "axis=z,facing=north_west": {
+      "model": "red_mishanguc_roads:block/white_thick_and_normal_right_angle_line_z",
+      "uvlock": false,
+      "y": 180
+    },
+    "axis=x,facing=north_east": {
+      "model": "red_mishanguc_roads:block/white_thick_and_normal_right_angle_line_z",
+      "uvlock": false,
+      "y": 270
+    },
+    "axis=z,facing=south_east": {
+      "model": "red_mishanguc_roads:block/white_thick_and_normal_right_angle_line_z",
+      "uvlock": false
+    }
+  }
+}
