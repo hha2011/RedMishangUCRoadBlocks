@@ -255,7 +255,7 @@ Example:
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "red_mishanguc_roads:item/my_new_road_block"
+    "layer0": "red_mishanguc_roads:block/my_new_road_block"
   }
 }
 ```
@@ -429,7 +429,8 @@ Uses diagonal facing:
 
 ## Assets
 
-Added a new texture and item texture.
+Added a new textures:
+white_diagonal_line.png
 
 ## Testing
 
