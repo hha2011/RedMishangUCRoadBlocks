@@ -10,7 +10,7 @@ Make sure you have:
 
 * Git installed
 * A GitHub account
-* A Java development environment suitable for Fabric 1.20.1
+* A Java development environment suitable for Fabric 1.20.1 (I recomment IntelliJ IDEA)
 * A working copy of the project
 * Minecraft 1.20.1
 * Fabric Loader
@@ -221,7 +221,7 @@ my_new_road_block_z.json
 
 # 6. Add the Texture
 
-Put the texture in:
+Put the texture in (or use an existing one i havent implemented from the textures folder):
 
 ```text
 src/main/resources/assets/red_mishanguc_roads/textures/block/
